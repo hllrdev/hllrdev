@@ -1,8 +1,6 @@
 # Olá, Héuller aqui 👋
 ## Bem-vindo ao meu perfil do github. 🌱
 
-<img height="200em" alt="Heuller-gif" src="https://media.giphy.com/media/hrwmeFmQ4K2dCvI8aa/giphy.gif" />
-
 <div>
   <a href="https://www.github.com/hllrdev">
     <img alt="Heuller-stats" src="https://github-readme-stats.vercel.app/api?username=hllrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -23,3 +21,5 @@
   <a href="https://www.instagram.com/heullersuarez/"><img alt="Heuller-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="https://wa.me/5535997354331"><img alt="Heuller-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
+
+<img height="180em" alt="Heuller-gif" src="https://media.giphy.com/media/hrwmeFmQ4K2dCvI8aa/giphy.gif" />
