@@ -1,10 +1,12 @@
 # Olá, Héuller aqui 👋
 ## Bem-vindo ao meu perfil do github. 🌱
 
+<img height="200em" alt="Heuller-gif" src="https://media.giphy.com/media/hrwmeFmQ4K2dCvI8aa/giphy.gif" />
+
 <div>
   <a href="https://www.github.com/hllrdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=hllrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img width="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hllrdev&theme=dracula" />
+    <img alt="Heuller-stats" src="https://github-readme-stats.vercel.app/api?username=hllrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img alt="Heuller-languages" width="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hllrdev&theme=dracula" />
   </a>
 </div>
 <br/>
