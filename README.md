@@ -9,10 +9,10 @@
 </div>
 <br/>
 <div>
-  <img align="center" alt="Heuller-Vue" height="40" width="40" src="https://api.iconify.design/skill-icons:vuejs-light.svg?color=%23888888">
-  <img align="center" alt="Heuller-Nuxt" height="40" width="40" src="https://api.iconify.design/skill-icons:nuxtjs-light.svg?color=%23888888">
-  <img align="center" alt="Heuller-Java" height="40" width="40" src="https://api.iconify.design/skill-icons:java-light.svg?color=%23888888">
-  <img align="center" alt="Heuller-Springboot height="40" width="40" src="https://api.iconify.design/skill-icons:spring-light.svg?color=%23888888">
+  <img align="center" alt="Heuller-Vue" height="40" width="40" src="https://api.iconify.design/skill-icons:vuejs-light.svg?color=%23888888">&nbsp;&nbsp;
+  <img align="center" alt="Heuller-Nuxt" height="40" width="40" src="https://api.iconify.design/skill-icons:nuxtjs-light.svg?color=%23888888">&nbsp;&nbsp;
+  <img align="center" alt="Heuller-Java" height="40" width="40" src="https://api.iconify.design/skill-icons:java-light.svg?color=%23888888">&nbsp;&nbsp;
+  <img align="center" alt="Heuller-Springboot height="40" width="40" src="https://api.iconify.design/skill-icons:spring-light.svg?color=%23888888">&nbsp;&nbsp;
   <img align="center" alt="Heuller-Typescript" height="40" width="40" src="https://api.iconify.design/skill-icons:typescript.svg?color=%23888888">
 </div>
 <br/>
