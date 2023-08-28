@@ -3,7 +3,6 @@
 
 <div>
   <a href="https://www.github.com/hllrdev">
-    <img alt="Heuller-stats" src="https://github-readme-stats.vercel.app/api?username=hllrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img alt="Heuller-languages" width="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hllrdev&theme=dracula" />
   </a>
 </div>
